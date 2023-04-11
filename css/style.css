@@ -289,6 +289,23 @@ iframe {
 	padding: 90px 0;
 }
 
+#video {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	/* min-height: 100vh; */
+	margin: 0;
+	padding: 0;
+}
+
+.video-container {
+	text-align: center;
+	margin: 2rem 0;
+}
+
+
+
+
 .section-white.no-padding, .section-grey.no-padding, .section-blue.no-padding {
 	padding:0;
 }
